@@ -62,7 +62,7 @@
 
 ### Frameworks, Libraries & Programs Used
 
-1. [BootStrap](https://getbootstrap.com/)
+1. [BootStrap:](https://getbootstrap.com/)
 	- Bootstrap was used to assist with the responsiveness and styling of the website.
 1. [Git:](https://git-scm.com/)
 	- Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
@@ -78,9 +78,9 @@
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
-[W3C HTML Markup Validator](https://validator.w3.org/) - [Results]()
+[W3C CSS Validaton](https://validator.w3.org/) - [Results]()
 
-![HTML Validation](assets/img/validator.w3.png) - [Results]()
+![W3C HTML Validation](assets/img/validator.w3.png) - [Results]()
 
 
 ### Further Testing
