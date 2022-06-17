@@ -89,10 +89,6 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ### Further Testing
 
-[Lighthouse](https://developers.google.com/web/tools/lighthouse/) analyzes web apps and web pages, collecting modern performance metrics and insights on developer best practices.
-
-![Lighthouse Test Results]()
-
 [GTmetrix](https://gtmetrix.com/) was developed by Carbon60 as a tool for customers to easily test the performance of their webpages.
 ![GTmetrix](images/readme/gt-metrix.png)
 
@@ -150,8 +146,8 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ## Credits
 
-### Conent & Code
+### Content & Code
 
--   All content and code is from a Code institute Tutorial [Code Institute](https://www.codeinstitute.net)
+-   All content and code is from Code Institute Module Tutorials [Code Institute](https://www.codeinstitute.net)
 
 
