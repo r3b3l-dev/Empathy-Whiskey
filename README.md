@@ -8,13 +8,13 @@
 </a>
 
 <p align="center">
-	Using a Tailwind CSS Starter Kit by Creative Tim  and modifying it into a gym website. A project to  learn about Tailwind CSS utility classes and implementing the AOS (Animation on Scroll) library for animation.
+	Built with HTML and CSS, whiskeydrop is a simple landing page for a whiskey delivery company.
 	<br />
-	<a href="https://r3b3l-dev.github.io/the-power-room/">View Live Project Here</a>
+	<a href="https://r3b3l-dev.github.io/Empathy-Whiskey/">View Live Project Here</a>
 </p>
 </div>
 
-<h2 align="center"><img src="assets/img/screenshot.png"></h2>
+<h2 align="center"><img src="images/readme/screenshot.png"></h2>
 
 <br>
 <!-- TABLE OF CONTENTS -->
@@ -50,8 +50,6 @@
 
 -   Responsive on all device sizes
 
--   Interactive elements that animate on scroll
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -61,18 +59,15 @@
 
 -   [HTML5](https://en.wikipedia.org/wiki/HTML5)
 -   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
--   [Javascript](https://en.wikipedia.org/wiki/JavaScript)
 
 ### Frameworks, Libraries & Programs Used
 
-1. [Tailwind v3.0.24:](https://tailwindcss.com/docs/installation)
-	- Tailwind was used to assist with the responsiveness and styling of the website.
+1. [BootStrap](https://getbootstrap.com/)
+	- Bootstrap was used to assist with the responsiveness and styling of the website.
 1. [Git:](https://git-scm.com/)
 	- Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 1. [GitHub:](https://github.com/)
 	- GitHub is used to store the projects code after being pushed from Git.
-1. [Animate On Scroll Library:](https://michalsnik.github.io/aos/)
-	- AOS detects the position of elements and then adds appropriate classes when they appear in viewport to animate them.
 1. [Font Awesome:](https://fontawesome.com/)
 	- Font Awesome is the Internet's icon library and toolkit, used by millions of designers, developers, and content creators.
 
@@ -83,19 +78,19 @@
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
-[W3C HTML Markup Validator](https://validator.w3.org/) - [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fr3b3l-dev.github.io%2Fthe-power-room%2F)
+[W3C HTML Markup Validator](https://validator.w3.org/) - [Results]()
 
-![HTML Validation](assets/img/validator.w3.png)
+![HTML Validation](assets/img/validator.w3.png) - [Results]()
 
 
 ### Further Testing
 
 [Lighthouse](https://developers.google.com/web/tools/lighthouse/) analyzes web apps and web pages, collecting modern performance metrics and insights on developer best practices.
 
-![Lighthouse Test Results](assets/img/lighthouse.png)
+![Lighthouse Test Results]()
 
 [GTmetrix](https://gtmetrix.com/) was developed by Carbon60 as a tool for customers to easily test the performance of their webpages.
-![GTmetrix](assets/img/gtmetrix.png)
+![GTmetrix]()
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -151,23 +146,8 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ## Credits
 
-### Code
+### Conent & Code
 
--  The project follows Build a Gym Website Using The Tailwind Starter Kit from Traversy Media  [Traversy Media Tutorial](https://www.youtube.com/watch?v=mO3aXUgjnIE)
-
--  The code for this tutorial came from [Traversy Media CodePen](https://codepen.io/bradtraversy/pen/zYqVgXO)
-
--  The starter kit is free and open source from Creative Tim [Creative Tim](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation): Tailwind Library used throughout the project.
+-   All content and code is from a Code institute Tutorial [Code Institute](https://www.codeinstitute.net)
 
 
-### Content
-
--   All content was from [Traversy Media Tutorial](https://www.youtube.com/watch?v=mO3aXUgjnIE)
-
-
-### Media
-
--   All Media and Pictures are from Unsplash.com. Unsplash photos are made to be used freely. Their license reflects that.   [Unsplash](https://unsplash.com/)
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
